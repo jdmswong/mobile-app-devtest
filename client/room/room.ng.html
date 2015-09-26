@@ -1,0 +1,23 @@
+<ion-view view-title="{{pageTitle}}">
+	<ion-content class="">
+
+
+
+	</ion-content>
+	
+	<ion-footer-bar class="bar-dark msg-bar">
+		<label class="item item-input">
+			<input 
+				type="text" 
+				placeholder="Send a message!" 
+				ng-model="msgText" 
+				ng-keydown="onKeyDown($event)"
+			/>
+		</label>
+		<div class="buttons">
+			<button class="button button-clear" ng-click="submitMsg()">
+				<i class="icon ion-chatbox"></i>
+			</button>
+		</div>
+	</ion-footer-bar>
+</ion-view>
