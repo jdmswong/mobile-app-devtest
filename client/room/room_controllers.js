@@ -1,4 +1,4 @@
-angular.module('convosLive')
+angular.module('devTest')
 
 .controller('RoomCtrl', function(room, $scope) {
 

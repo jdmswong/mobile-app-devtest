@@ -1,4 +1,4 @@
-angular.module('convosLive')
+angular.module('devTest')
 
 .controller('LoginCtrl', function($scope, $state, $meteor){
 

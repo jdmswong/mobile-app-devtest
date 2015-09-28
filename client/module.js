@@ -1,5 +1,5 @@
 // Module settings
-angular.module('convosLive')
+angular.module('devTest')
 
 .run(function($ionicPlatform, $rootScope, $state) {
   $ionicPlatform.ready(function() {

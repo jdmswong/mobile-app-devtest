@@ -1,4 +1,4 @@
-angular.module('convosLive')
+angular.module('devTest')
 
 	.config(function ($stateProvider) {
 

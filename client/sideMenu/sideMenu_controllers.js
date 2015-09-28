@@ -1,4 +1,4 @@
-angular.module('convosLive')
+angular.module('devTest')
 
 .controller("MenuCtrl", function($scope, $state, $rootScope, $meteor){
 
