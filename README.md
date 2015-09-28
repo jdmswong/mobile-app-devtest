@@ -13,7 +13,7 @@ When running for the first time, two users will be created with the username/pas
 
 **admin/admin**, **user1/user1**
 
-You may these accounts to test.
+You may use these accounts to test.
 
 Stub files exist in client/room/ for the chat room template, route, controller, and styling.  
 
